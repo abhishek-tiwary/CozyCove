@@ -60,7 +60,7 @@ By means of this website, we are diminishing the space between adopters and the 
         </MotionHeading>
         <Flex justifyContent="center" flexWrap="wrap">
           <TeamMember name="Tushar"  imageUrl={img1} delay={0.8} />
-          <TeamMember name="Yuvraj"  imageUrl={img2} delay={1.0} />
+          <TeamMember name="Abhishek"  imageUrl={img2} delay={1.0} />
           
           {/* Add more TeamMember components as needed */}
         </Flex>
