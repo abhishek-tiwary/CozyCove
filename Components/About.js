@@ -1,8 +1,8 @@
 import React from 'react'
 import { Box, Container, Heading, Text, Flex, Avatar, Stack } from "@chakra-ui/react";
 import { motion } from "framer-motion";
-import img2 from "../Assests/img1.jpg"
-import img1 from "../Assests/img2.jpg"
+import img1 from "../Assests/img1.jpg"
+import image_abhishek from "../Assests/image_abhishek.jpg"
 
 
 const About = () => {
